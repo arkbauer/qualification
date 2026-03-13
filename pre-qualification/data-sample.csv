@@ -1,0 +1,122 @@
+﻿ID;Company name;Creator;ID;Country;Street;House;City;State;Zip;Type;Is valid;Creator
+5.53619E+17;Company 1;user0@example.com;;;;;;;;;;
+;;;3.27607E+12;USA;   Broadway;251a;  New York;NY;10001;legal;1;address_creator0@example.com
+;;;2.65675E+12;USA;Broadway;362;New York;NY;10001;physical;1;physical_creator0_0@example.com
+5.50391E+17;Company 2;user1@example.com;;;;;;;;;;
+;;;8.00947E+12;United Kingdom;       Baker Street   ;54;London;Greater London;SW1A 1AA;legal;1;address_creator1@example.com
+;;;3.10265E+12;Brazil;Avenida Paulista;181;São Paulo;SP;01000-000;;0;physical_creator1_0@example.com
+8.93313E+21;Company 3;user2@example.com;;;;;;;;;;
+;;;7.03965E+12;Brazil;       Avenida Paulista;495;São Paulo;SP;01000-000;;1;address_creator2@example.com
+;;;3.97298E+12;USA;Broadway;54;New York;NY;10001;physical;1;physical_creator2_0@example.com
+;;;4.12313E+12;Brazil;Avenida Paulista;221d;     São Paulo;SP;01000-000;;1;physical_creator2_1@example.com
+;;;6.40467E+12;USA;Broadway;259;New York;NY;10001;physical;1;physical_creator2_2@example.com
+5.86684E+21;Company 4;user3@example.com;;;;;;;;;;
+;;;6.85545E+12;India;MG Road;left;Bangalore;Karnataka;560001;legal;0;address_creator3@example.com
+;;;2.29432E+12;USA;Broadway;277;New York;NY;10001;physical;1;physical_creator3_0@example.com
+3.80002E+21;Company 5;user4@example.com;;;;;;;;;;
+;;;6.45008E+12;India;MG Road;35;  Bangalore;Karnataka;560001;legal;1;address_creator4@example.com
+;;;4.56871E+12;Japan;Jingumae;189;Shibuya;Tokyo;150-0001;physical;1;physical_creator4_0@example.com
+;;;9.86918E+12;;Broadway;352;;;10001;physical;0;physical_creator4_1@example.com
+;;;1.67595E+12;India;MG Road;59;Bangalore;Karnataka;560001;physical;1;physical_creator4_2@example.com
+1.5282E+17;Company 6;user5@example.com;;;;;;;;;;
+;;;8.8424E+12;India;    MG Road;11;Bangalore;Karnataka;560001;legal;1;address_creator5@example.com
+;;;1.99559E+12;Japan;;412;Shibuya;;150-0001;physical;0;physical_creator5_0@example.com
+;;;7.05736E+12;Latvia;;185;Rīga;Rīga;LV-1010;physical;1;physical_creator5_1@example.com
+;;;7.36333E+12;United Kingdom;Baker Street;68;;Greater London;SW1A 1AA;physical;1;physical_creator5_2@example.com
+2.93451E+17;Company 7;user6@example.com;;;;;;;;;;
+;;;2.57965E+12;United Kingdom;Baker Street;113w;London;Greater London;SW1A 1AA;legal;1;address_creator6@example.com
+;;;8.52917E+12;Brazil;Avenida Paulista;400;São Paulo;;01000-000;physical;0;physical_creator6_0@example.com
+;;;5.0135E+12;Latvia;Brīvības iela;332;Rīga;Rīga;LV-1010;physical;1;physical_creator6_1@example.com
+;;;2.20168E+12;United Kingdom;Baker Street;480;London;Greater London;SW1A 1AA;;1;physical_creator6_2@example.com
+9.75918E+17;Company 8;user7@example.com;;;;;;;;;;
+;;;5.74935E+12;USA;Broadway;304;New York;NY;10001;legal;1;address_creator7@example.com
+;;;9.56822E+12;India;MG Road;94;Bangalore;Karnataka;560001;physical;0;physical_creator7_0@example.com
+1.7929E+17;Company 9;user8@example.com;;;;;;;;;;
+;;;8.74402E+12;Latvia;Brīvības iela;114;Rīga;Rīga;LV-1010;legal;1;address_creator8@example.com
+;;;4.17882E+12;United Kingdom;Baker Street;303;London;Greater London;SW1A 1AA;physical;1;physical_creator8_0@example.com
+2.02892E+17;Company 10;user9@example.com;;;;;;;;;;
+;;;9.6482E+12;India;MG Road;397;Bangalore;Karnataka;560001;legal;1;address_creator9@example.com
+;;;7.38393E+12;Latvia;;62;Rīga;Rīga;LV-1010;physical;1;physical_creator9_0@example.com
+;;;4.9944E+12;Latvia;Brīvības iela;459;Rīga;;LV-1010;physical;1;physical_creator9_1@example.com
+8.93313E+17;Company 11;user10@example.com;;;;;;;;;;
+;;;7.77147E+12;India;MG Road;488;Bangalore;Karnataka;560001;legal;1;address_creator10@example.com
+;;;8.2164E+12;India;MG Road;114;Bangalore;;560001;physical;0;physical_creator10_0@example.com
+2.29485E+17;Company 12;user11@example.com;;;;;;;;;;
+;;;4.56643E+12;United Kingdom;Baker Street;198;London;Greater London;SW1A 1AA;legal;1;address_creator11@example.com
+;;;6.0387E+12;Brazil;Avenida Paulista;193;São Paulo;SP;01000-000;physical;1;physical_creator11_0@example.com
+;;;6.26594E+12;Japan;Jingumae;451;;Tokyo;150-0001;physical;0;physical_creator11_1@example.com
+5.67544E+17;Company 13;user12@example.com;;;;;;;;;;
+;;;7.47313E+12;Japan;Jingumae;36;  Shibuya;Tokyo;150-0001;legal;1;address_creator12@example.com
+;;;3.66524E+12;Japan;;475;Shibuya;Tokyo;150-0001;physical;1;physical_creator12_0@example.com
+;;;7.09105E+12;Latvia;Brīvības iela;402;Rīga;Rīga;LV-1010;physical;1;physical_creator12_1@example.com
+;;;9.3353E+12;Japan;Jingumae;47;Shibuya;Tokyo;150-0001;physical;1;physical_creator12_2@example.com
+5.06943E+17;Company 14;user13@example.com;;;;;;;;;;
+;;;9.4227E+12;Latvia;Brīvības iela;294;Rīga;Rīga;LV-1010;legal;1;address_creator13@example.com
+;;;2.89898E+12;United Kingdom;Baker Street;261;London;;SW1A 1AA;physical;1;physical_creator13_0@example.com
+;;;6.47779E+12;Brazil;Avenida Paulista;300;São Paulo;SP;01000-000;physical;1;physical_creator13_1@example.com
+;;;3.58915E+12;Latvia;Brīvības iela;425;Rīga;Rīga;LV-1010;physical;1;physical_creator13_2@example.com
+6.95051E+17;Company 15;user14@example.com;;;;;;;;;;
+;;;9.6058E+12;USA;Broadway;364;New York;NY;10001;legal;1;address_creator14@example.com
+;;;6.17626E+12;USA;Broadway;248;New York;NY;10001;physical;1;physical_creator14_0@example.com
+;;;2.36577E+12;India;MG Road;480;;Karnataka;560001;physical;1;physical_creator14_1@example.com
+;;;2.46718E+12;India;MG Road;302;Bangalore;Karnataka;560001;physical;0;physical_creator14_2@example.com
+3.55489E+17;Company 16;user15@example.com;;;;;;;;;;
+;;;5.25174E+12;Latvia;Brīvības iela;238;Rīga;Rīga;LV-1010;legal;1;address_creator15@example.com
+;;;1.38492E+12;United Kingdom;Baker Street;410;London;Greater London;SW1A 1AA;physical;0;physical_creator15_0@example.com
+;;;7.32942E+12;United Kingdom;Baker Street;366;London;Greater London;SW1A 1AA;physical;1;physical_creator15_1@example.com
+1.80658E+17;Company 17;user16@example.com;;;;;;;;;;
+;;;9.61934E+12;India;MG Road;332;Bangalore;Karnataka;560001;legal;1;address_creator16@example.com
+;;;4.86064E+12;Japan;Jingumae;15;Shibuya;Tokyo;150-0001;physical;1;physical_creator16_0@example.com
+;;;5.52128E+12;United Kingdom;Baker Street;266;London;Greater London;SW1A 1AA;physical;1;physical_creator16_1@example.com
+5.63423E+17;Company 18;user17@example.com;;;;;;;;;;
+;;;2.66378E+12;United Kingdom;Baker Street;434;London;Greater London;SW1A 1AA;legal;1;address_creator17@example.com
+;;;4.95796E+12;United Kingdom;Baker Street;7;London;Greater London;SW1A 1AA;physical;1;physical_creator17_0@example.com
+;;;9.1387E+12;Brazil;Avenida Paulista;436;São Paulo;SP;01000-000;physical;1;physical_creator17_1@example.com
+;;;7.43524E+12;India;MG Road;77;Bangalore;Karnataka;560001;physical;0;physical_creator17_2@example.com
+4.28108E+17;Company 19;user18@example.com;;;;;;;;;;
+;;;6.59773E+12;USA;Broadway;327;New York;NY;10001;legal;1;address_creator18@example.com
+;;;6.70526E+12;Brazil;Avenida Paulista;57;São Paulo;SP;01000-000;physical;0;physical_creator18_0@example.com
+1.32049E+17;Company 20;user19@example.com;;;;;;;;;;
+;;;6.73498E+12;India;MG Road;271;Bangalore;Karnataka;560001;legal;0;address_creator19@example.com
+;;;6.8268E+12;United Kingdom;Baker Street;294;London;Greater London;SW1A 1AA;physical;1;physical_creator19_0@example.com
+7.49939E+17;Company 21;user20@example.com;;;;;;;;;;
+;;;7.1609E+12;United Kingdom;Baker Street;27;London;Greater London;SW1A 1AA;legal;0;address_creator20@example.com
+;;;9.45092E+12;United Kingdom;Baker Street;317;London;Greater London;SW1A 1AA;physical;1;physical_creator20_0@example.com
+;;;6.48548E+12;USA;Broadway;245;New York;NY;10001;physical;1;physical_creator20_1@example.com
+;;;8.87743E+12;Brazil;Avenida Paulista;435;São Paulo;SP;01000-000;physical;1;physical_creator20_2@example.com
+5.76975E+17;Company 22;user21@example.com;;;;;;;;;;
+;;;5.77329E+12;USA;Broadway;421;New York;NY;10001;legal;1;address_creator21@example.com
+;;;3.30935E+12;Japan;Jingumae;263;Shibuya;Tokyo;150-0001;physical;1;physical_creator21_0@example.com
+;;;1.17129E+12;Japan;Jingumae;335;Shibuya;Tokyo;150-0001;physical;0;physical_creator21_1@example.com
+;;;1.98455E+12;India;MG Road;301;Bangalore;Karnataka;560001;physical;1;physical_creator21_2@example.com
+9.68335E+17;Company 23;user22@example.com;;;;;;;;;;
+;;;8.81632E+12;USA;Broadway;64;New York;NY;10001;legal;1;address_creator22@example.com
+;;;9.85693E+12;Latvia;Brīvības iela;32;Rīga;Rīga;LV-1010;physical;1;physical_creator22_0@example.com
+8.27289E+17;Company 24;user23@example.com;;;;;;;;;;
+;;;8.80862E+12;United Kingdom;Baker Street;112;London;Greater London;SW1A 1AA;legal;1;address_creator23@example.com
+;;;8.05717E+12;India;MG Road;342;Bangalore;Karnataka;560001;physical;1;physical_creator23_0@example.com
+;;;6.76049E+12;India;MG Road;445;Bangalore;Karnataka;560001;physical;0;physical_creator23_1@example.com
+;;;2.2864E+12;India;MG Road;205;Bangalore;Karnataka;560001;physical;1;physical_creator23_2@example.com
+3.31669E+17;Company 25;user24@example.com;;;;;;;;;;
+;;;9.33619E+12;Brazil;Avenida Paulista;71;São Paulo;SP;01000-000;legal;1;address_creator24@example.com
+;;;3.32277E+12;India;MG Road;415;Bangalore;Karnataka;560001;physical;1;physical_creator24_0@example.com
+1.61215E+17;Company 26;user25@example.com;;;;;;;;;;
+;;;9.19992E+12;Brazil;Avenida Paulista;91;São Paulo;SP;01000-000;legal;1;address_creator25@example.com
+;;;1.37523E+12;United Kingdom;Baker Street;484;London;Greater London;SW1A 1AA;physical;1;physical_creator25_0@example.com
+;;;3.29152E+12;Japan;Jingumae;459;Shibuya;Tokyo;150-0001;physical;1;physical_creator25_1@example.com
+;;;5.52916E+12;India;MG Road;52;Bangalore;Karnataka;560001;physical;1;physical_creator25_2@example.com
+3.83227E+17;Company 27;user26@example.com;;;;;;;;;;
+;;;3.18774E+12;Brazil;Avenida Paulista;280;São Paulo;SP;01000-000;legal;1;address_creator26@example.com
+;;;8.78084E+12;United Kingdom;Baker Street;176;London;Greater London;SW1A 1AA;physical;1;physical_creator26_0@example.com
+;;;6.05695E+12;United Kingdom;Baker Street;367;London;Greater London;SW1A 1AA;physical;1;physical_creator26_1@example.com
+9.51633E+17;Company 28;user27@example.com;;;;;;;;;;
+;;;4.61607E+12;Japan;Jingumae;194;Shibuya;Tokyo;150-0001;legal;1;address_creator27@example.com
+;;;9.01249E+12;Brazil;Avenida Paulista;445;São Paulo;SP;01000-000;physical;1;physical_creator27_0@example.com
+6.0834E+17;Company 29;user28@example.com;;;;;;;;;;
+;;;1.60677E+12;Brazil;Avenida Paulista;493;São Paulo;SP;01000-000;legal;1;address_creator28@example.com
+;;;8.60792E+12;Latvia;Brīvības iela;391;Rīga;Rīga;LV-1010;physical;1;physical_creator28_0@example.com
+;;;5.56648E+12;USA;Broadway;231;New York;NY;10001;physical;1;physical_creator28_1@example.com
+;;;7.66304E+12;India;MG Road;188;Bangalore;Karnataka;560001;physical;1;physical_creator28_2@example.com
+8.11037E+17;Company 30;user29@example.com;;;;;;;;;;
+;;;7.07181E+12;India;MG Road;107;Bangalore;Karnataka;560001;legal;1;address_creator29@example.com
+;;;5.20532E+12;USA;Broadway;492;New York;NY;10001;physical;1;physical_creator29_0@example.com

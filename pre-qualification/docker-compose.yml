@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  php:
+    image: php:8.4
+    container_name: php-app
+    volumes:
+      - ./src:/var/www/html
+    working_dir: /var/www/html
+    command: >
+      sh -c "apt-get update &&
+             apt-get install -y curl unzip &&
+             curl -sS https://getcomposer.org/installer | php &&
+             mv composer.phar /usr/local/bin/composer &&
+             tail -f /dev/null"

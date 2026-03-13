@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Entity\\": "Entity/",
+      "Enum\\": "Enum/",
+      "Service\\": "Service/"
+    }
+  },
+  "require": {}
+}
